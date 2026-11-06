@@ -93,25 +93,3 @@ The project strengthened my practical experience with Python, Pandas, data prepa
 ## Skills Demonstrated
 
 Python | Pandas | Data Cleaning | Data Wrangling | Exploratory Data Analysis | Descriptive Statistics | Data Aggregation | Business Analysis
-
-# Data Sources
-
-This project uses publicly available historical Divvy bike-share trip data.
-
-**Source:** [Divvy Historical Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
-
-**Datasets used:**
-- `Divvy_Trips_2019_Q1_csv.csv` – First quarter of 2019
-- `Divvy_Trips_2020_Q1_csv.csv` – First quarter of 2020
-
-The original CSV files are not included in this repository because of their file sizes.
-
-To reproduce the analysis:
-1. Visit the official Divvy historical trip data archive.
-2. Download the corresponding 2019 Q1 and 2020 Q1 ZIP files.
-3. Extract the CSV files.
-4. Place both CSV files in this `data` folder.
-5. Run the Jupyter Notebook.
-
-The data is provided publicly by Divvy and is subject to its [Data License Agreement](https://divvybikes.com/data-license-agreement).
-
